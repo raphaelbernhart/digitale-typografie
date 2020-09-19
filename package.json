@@ -1,0 +1,11 @@
+{
+  "name": "digitale-typografie",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start:dev": "live-server --port=8080"
+  },
+  "author": "Raphael Bernhart",
+  "license": "ISC"
+}
